@@ -53,3 +53,27 @@ h1{
 .recipi{
     text-align: center;
 }
+.parents{
+    display: flex;
+    width: 50%;
+    margin-left:10%;
+}
+.half-width{
+    width: 50%;
+    margin-right:2%;
+    margin-left: 2%;
+    margin-bottom: 20%;
+    padding: 20px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px grey;
+}
+.foot{
+    text-align: center;
+    color: white;
+    background-color: #090808;
+    padding-bottom:3%;
+    padding-top: 8px;
+}
+.ex-color{
+    color: grey;
+}
