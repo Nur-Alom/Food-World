@@ -7,6 +7,10 @@ body{
     background-repeat: no-repeat;
     margin-bottom: 150px;
 }
+.fast-font{
+    width: 60%;
+    margin: 5%;
+}
 .secend-sec{
     display: flex;
     background-repeat: no-repeat;
@@ -14,41 +18,9 @@ body{
     background-image: url(images/7.png);
     background-position: center;
 }
-.half{
-    width: 80%;
-    margin: 0%;
-}.font{
-    width: 60%;
-    margin: 5%;
-}
-.second-half{
-    width: 58%;
-    margin-left: 30%;
-}
-.fast-font{
-    width: 60%;
-    margin: 5%;
-}
 .secend-font{
     width: 60%;
     margin: 6%;
-}
-.href-button{
-    text-decoration: none;
-    background-image:linear-gradient(orange,#ee1414 );
-    padding: 8px 10px;
-    border-radius: 8%;
-    font-weight: 700;
-    color: white;
-}
-h1{
-    font-size: 40px;
-}
-.color{
-    color: orange;
-}
-.second-color{
-    color: lightgreen;
 }
 .recipi{
     text-align: center;
@@ -66,6 +38,32 @@ h1{
     padding: 20px;
     border-radius: 5%;
     box-shadow: 10px 10px 40px grey;
+}
+.href-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,#ee1414 );
+    padding: 8px 10px;
+    border-radius: 8%;
+    font-weight: 700;
+    color: white;
+}
+.half{
+    width: 90%;
+    margin: 0%;
+}
+.second-half{
+    width: 58%;
+    margin-left: 30%;
+}
+.color{
+    color: orange;
+}
+.second-color{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
 }
 .foot{
     text-align: center;
